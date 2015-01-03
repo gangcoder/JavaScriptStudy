@@ -28,3 +28,9 @@ th,td {
 .odd {
   background-color: #ffc;
 }
+.bold{
+  font-weight: bold;
+}
+.normal{
+  font-weight: normal;
+}
